@@ -25,14 +25,10 @@ Contributions to the project are welcome! If you have enhancements or new featur
 
 ## Disclaimer
 
-This project is intended for educational and non-commercial purposes only. It is not officially affiliated with Disney+ Hotstar or The Walt Disney Company. The goal is to showcase frontend development skills and create an interactive streaming experience.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+This project is intended for educational and non-commercial purposes only. It is not officially affiliated with Disney+ Hotstar or The Walt Disney Company. The goal is to showcase front-end development skills and create an interactive streaming experience.
 
 ---
 
-Experience the charm of Disney+ Hotstar's frontend through this HTML, CSS, and JavaScript clone. Happy coding and creating!
+Experience the charm of Disney+ Hotstar's front-end through this HTML, CSS, and JavaScript clone. Happy coding and creating!
 
-For any questions or inquiries, contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, contact: itsraj1310@gmail.com.
