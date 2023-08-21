@@ -1,5 +1,4 @@
 # Disney-Hotstar-Clone
-# DisneyPlusHotstar-Frontend-Clone
 
 Welcome to the DisneyPlusHotstar-Frontend-Clone repository! This project is an HTML, CSS, and JavaScript recreation of the frontend interface of Disney+ Hotstar, a popular streaming platform. Immerse yourself in an engaging streaming experience with a familiar interface and captivating features.
 
